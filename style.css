@@ -1,0 +1,46 @@
+body { background-color: rgb(180,180,180);
+	color: rgb(85,85,85);
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0,3px;
+	text-align: center;
+}
+
+
+h1, h2, h3, h4, h5 {
+	color: rgb(171,45,32); 
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	font-size: 28px;
+} 
+
+h1{
+	font-weight: 800;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(171,45,32);
+}
+a: hover {
+	color: rgb(246,232,16);
+}
+
+.ist-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+display: inline;
+  padding: 20px;
+  text-align: center;
+  color: rgb(178, 218, 234)
+}
+
+.list-inline i {
+  font-size: 70px;
+  color: rgb(178, 218, 234);
+} 
+
+
